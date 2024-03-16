@@ -1,6 +1,6 @@
 {
   "name": "web3-khai-1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Carousel Component: Component hiển thị slideshow ảnh hoặc nội dung đa phương tiện",
   "main": "index.js",
   "scripts": {
