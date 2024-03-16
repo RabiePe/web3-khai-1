@@ -7,7 +7,7 @@ const CustomCarousel = ({ items }) => {
       {items.map((item, index) => (
         <Carousel.Item key={index}>
           <img
-            className="d-block w-100"
+            className="d-blockgit w-100"
             src={item.imageUrl}
             alt={item.caption}
           />
